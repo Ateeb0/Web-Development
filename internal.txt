@@ -1,0 +1,7 @@
+<html>
+‹head>
+＜title＞
+Inline CSS</title>
+</head>
+‹body style="background-color:Yellow;">
+<h1 style="font-size: 100pt;color: blue; text-decoration: underline; *>Khwopa<;1› <h2 style="font-size:30pt;color:green;text-transformation:capitalize;">College‹/h2> <p style="Font-size: 20pt; color:red; text-decoration: linethrough; "›My name is Aryan dahal‹/p› </body> </html>
